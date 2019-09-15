@@ -3,5 +3,5 @@
     "version":"0.0.1",
     "description":"Documentation for the issue tracker application",
     "title":"Issue tracker APIs",
-    "url":"http://localhost:3000/api/v1/users"
+    "url":"http://ec2-13-232-157-131.ap-south-1.compute.amazonaws.com/api"
 }
